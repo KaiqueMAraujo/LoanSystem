@@ -2,11 +2,11 @@ Sistema de Aprovação de Empréstimo
 
 Projeto desenvolvido para aplicar o padrão de projeto Chain of Responsibility utilizando Java Puro.
 
-📌 Objetivo
+ Objetivo
 
 Simular a análise de um pedido de empréstimo por meio de uma cadeia de validações, onde cada etapa verifica uma regra específica antes de aprovar ou reprovar a solicitação.
 
-🔗 Padrão Utilizado
+ Padrão Utilizado
 
 Chain of Responsibility
 
